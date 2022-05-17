@@ -8,7 +8,7 @@ import random
 
 
 def main():
-    # this function finds the average of 10 random  numbers
+    # this function finds the average of 10 random numbers
 
     num_array = []
 
